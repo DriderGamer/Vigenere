@@ -1,0 +1,2 @@
+Alapértelmezetten kódol a program, de a parancssori argumentumnak a d-t adva dekódolja a szöveget
+A kódolt és a dekódolt .dat fájlokat a program generálja
